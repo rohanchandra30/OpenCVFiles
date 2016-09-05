@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rohan/OpenCVFiles/smoothimage.cpp
+opencv2/imgproc/imgproc.hpp
+/home/rohan/OpenCVFiles/opencv2/imgproc/imgproc.hpp
+opencv2/highgui/highgui.hpp
+/home/rohan/OpenCVFiles/opencv2/highgui/highgui.hpp
+
